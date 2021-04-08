@@ -1,0 +1,2 @@
+test(유저) id = test02 / pw : test02!!
+test(관리자) id testadmin1 / pw : testadmin1!
