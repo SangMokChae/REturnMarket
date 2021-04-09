@@ -21,4 +21,4 @@ REturnMarket jsp&amp;servlet project
 ◆ - 관리자 > 신고 처리기능, 검색어 랭킹 보여주기 기능
 
 
-첨부된 ppt를 참조하시면 쉽게 보실 수 있습니다.
+### 첨부된 ppt를 참조하시면 쉽게 보실 수 있습니다.
